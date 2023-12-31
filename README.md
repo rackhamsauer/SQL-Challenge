@@ -1,1 +1,2 @@
 # SQL-Challenge
+I started by creating my ERD online, creating the tables, setting the primary and foreign keys to connect all of the tables. Then I exported that into pgadmin for it to create the tables for me. Then I began working through the questions on the assignment, utilizing previous class activities, peer support, stack overflow, and chat got to assist in running my queries. I did not see any bonus analysis so I did not include a Jupiter notebook.
